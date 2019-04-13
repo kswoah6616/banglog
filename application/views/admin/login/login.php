@@ -5,6 +5,6 @@
     <title>blog_ad</title>
   </head>
   <body>
-    pig
+    pig test
   </body>
 </html>
