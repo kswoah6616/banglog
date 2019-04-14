@@ -3,13 +3,19 @@
   <head>
     <meta charset="utf-8">
     <title>welcom to banglog</title>
-    <link rel="stylesheet" href="/resource/css/common.css?ver=1.1">
+    <link rel="stylesheet" href="/resource/css/common.css?ver=1.2">
   </head>
-  <BODY>
-    <div class="top">
-    </div>
-    <div class="center">
-    </div>
-  </body>
+  <body>
+    <div class="top"></div>
+    <div class="center"></div>
+    <div class="a-1"></div>
+    <div class="a-2"></div>
+    <div class="a-2"></div>
+    <div class="a-2"></div>
+    <div class="a-2"></div>
+ 
+
+  
+</body>
 
 </HTML>
