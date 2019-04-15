@@ -10,7 +10,6 @@ class Main extends CI_Controller {
 
 	public function index()
 	{
-        echo "관리자페이지";
 		$this->load->view('/admin/main');
 	}
 }
