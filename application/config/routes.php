@@ -51,4 +51,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $route['default_controller'] = 'Main';
 $route['404_override'] = '';
-$route['translate_uri_dashes'] = FALSE;
+#$route['translate_uri_dashes'] = FALSE;
+
+
+/*
+| -------------------------------------------------------------------------
+| URI ROUTING 관리자_PC
+| -------------------------------------------------------------------------
+*/
