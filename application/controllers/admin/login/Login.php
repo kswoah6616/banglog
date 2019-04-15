@@ -10,6 +10,6 @@ class Login extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('main');
+		echo '관리자 로그인 화면 전환';
 	}
 }
