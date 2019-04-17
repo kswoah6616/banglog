@@ -10,7 +10,7 @@
       <h1>Bang's</h1>
       <div class="textbox">
         <i class="fas fa-user"></i>
-        <input type="text" placeholder="Username">
+        <input type="text" placeholder="ID">
       </div>
 
       <div class="textbox">
