@@ -2,25 +2,9 @@ body{
     margin: 0px;
     padding: 0px;
 }
-.top{
-    width: 100%;
-    height: 50px;
-    border-bottom: 5px solid rgb(224, 222, 222);
-}
-.search{
-    width : 400px; 
-    height: 35px;
-    border: 2px solid gray;
-}
 
-
-
-/*
-.a-2{
-    padding: 0px;
-    width: 200px;
-    height: 100px;
+#motion{
     border: 1px solid black;
-    display: inline-block;
-}*/
+    background-color:black;
+}
 
