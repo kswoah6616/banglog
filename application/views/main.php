@@ -12,9 +12,11 @@
 
   </head>
   <body>
-  <div id="motion">앙떼지</div>
+  <form action= "/admin/main/index" mathod= "post" accept-charset= "utf-8"  name= "test">
+    <input type= "text" name= "ss">
+    <div id="motion">앙떼지</div>
+  </form>
     <input id="btn" type="button" value="이거 눌러봐라">
-    
   
 </body>
 

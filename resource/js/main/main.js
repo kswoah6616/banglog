@@ -10,17 +10,9 @@ window.onload = function(){
     //     bc.style.backgroundColor='red'
     //    }
        
-    var flag = 'A';
+   
     $('#btn').click(function(){
-        var bc = $('#motion');
-
-        if(flag == 'A'){
-            bc.css('background-color','red');
-            flag = 'R';
-        }else{
-            bc.css('background-color','black');
-            flag = 'A';
-        }
+           $('form[name]').submit();
 
     })
 

@@ -10,6 +10,8 @@ class Main extends CI_Controller {
 
 	public function index()
 	{
+		echo $_POST["ss"];
+		//echo $_GET["ss"];
 		$this->load->view('/admin/main');
 	}
 }
