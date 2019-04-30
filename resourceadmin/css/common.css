@@ -27,10 +27,14 @@ body{
 }
 .footer{
     background-color: rgb(80, 171, 224);
-    height: 47px;
+    height: 50px;
 }
-/* 본문 내용 */
+/* 사이드 메뉴 */
 .side_menu .admin_icon{
     background-color: skyblue;
     height: 100px;
+}
+.side_menu .admin_menu{
+    background-color: aquamarine;
+    height: 60px;
 }
