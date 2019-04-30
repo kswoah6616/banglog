@@ -10,7 +10,11 @@ class Main extends CI_Controller {
 
 	public function index()
 	{
-		
+
+		$this->load->view('/admin/common/header');
+		$this->load->view('/admin/common/side_menu');
+		$this->load->view('/admin/common/top_menu');
 		$this->load->view('/admin/main');
+		$this->load->view('/admin/common/footer');
 	}
 }
