@@ -12,12 +12,13 @@
     <script type="text/javascript" src="/resourceadmin/js/main/main.js"></script>
   </head>
   <body>
-    <div class="top" style="font-size:50px; background-color:skyblue;">
-      관리자 메인 페이지 입니다. 개발중~~~~~~
+    <div class="side_menu">
+      <div class="admin_icon">아이콘입니다</div>
     </div>
-    <div id='changeColor' style="border:1px solid black; background-color:black;">꿀떼지</div>
-    <input id='btnRed' type='button' value='이거 눌러봐라'>
-
+    <div class="top_menu">탑메뉴입니다.</div>
+    <div class="header">헤더입니다.</div>
+    <div class="context">본문입니다.</div>
+    <div class="footer">푸터입니다.</div>
   
 </body>
 

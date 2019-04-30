@@ -1,0 +1,36 @@
+/* 설정 초기화 */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* admin 세션 */
+.side_menu{
+    background-color: yellow;
+    width : 15%;
+    min-width: 200px;
+    max-width: 250px;
+    height: 100vh;
+    float :left;
+}
+.top_menu{
+    background-color: yellowgreen;
+    height: 30px;
+}
+.header{
+    background-color: rgb(135, 19, 202);
+    height: 70px;
+}
+.context{
+    background-color: rgb(212, 71, 114);
+    height: 85vh;
+}
+.footer{
+    background-color: rgb(80, 171, 224);
+    height: 47px;
+}
+/* 본문 내용 */
+.side_menu .admin_icon{
+    background-color: skyblue;
+    height: 100px;
+}
