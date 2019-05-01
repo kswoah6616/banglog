@@ -11,10 +11,11 @@ window.onload = function(){
     //    }
        
    
-    $('#btn').click(function(){
-           $('form[name]').submit();
+    // $('#btn').click(function(){
+    //        $('form[name]').submit();
+           
 
-    })
+    // })
 
 
 
