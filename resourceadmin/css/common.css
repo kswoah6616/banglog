@@ -22,11 +22,11 @@ a:hover {text-decoration: none;}
     width: 100px;
 }
 .top_menu{
-    background-color: rgb(54, 54, 54);
+    background-color: rgb(170, 170, 170);
     height: 20px;
 }
 .head{
-    background-color: rgb(54, 54, 54);
+    background-color: rgb(149, 169, 255);
     height: 80px;
     font-size: 50px;
     color:white;
@@ -58,5 +58,4 @@ a:hover {text-decoration: none;}
 /* 사이드 메뉴 */
 .top_menu .admin_login{
     float: right;
-    color: white;
 }
