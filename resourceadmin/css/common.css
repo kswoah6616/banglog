@@ -3,6 +3,11 @@ body{
     margin: 0px;
     padding: 0px;
 }
+/* a태그 초기화 */
+a:link {text-decoration: none; color: #333333;}
+a:visited {text-decoration: none; color: #333333;}
+a:active {text-decoration: none; color: #333333;}
+a:hover {text-decoration: underline; color: red;}
 
 /* admin 세션 */
 .side_menu{
@@ -14,7 +19,7 @@ body{
     float :left;
 }
 .top_menu{
-    background-color: yellowgreen;
+    background-color: rgb(140, 184, 250);
     height: 30px;
 }
 .head{
@@ -37,4 +42,8 @@ body{
 .side_menu .admin_menu{
     background-color: aquamarine;
     height: 60px;
+}
+/* 사이드 메뉴 */
+.top_menu .admin_login{
+    float: right;
 }
