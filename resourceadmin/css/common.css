@@ -32,9 +32,9 @@ a:hover {text-decoration: none;}
     color:white;
 }
 .context{
-    background-color: rgb(212, 71, 114);
+    background-color: rgb(206, 206, 206);
     height: 85vh;
-    border :0.5px solid black;
+    border :1px solid black;
 }
 .footer{
     background-color: rgb(80, 171, 224);
