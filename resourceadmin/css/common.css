@@ -3,38 +3,59 @@ body{
     margin: 0px;
     padding: 0px;
 }
+/* a태그 초기화 */
+a:link {text-decoration: none; color: #333333;}
+a:visited {text-decoration: none; color: #333333;}
+a:active {text-decoration: none; color: #333333;}
+a:hover {text-decoration: none;}
 
 /* admin 세션 */
 .side_menu{
-    background-color: yellow;
+    background-color: rgb(65, 64, 64);
     width : 15%;
     min-width: 200px;
     max-width: 250px;
     height: 100vh;
     float :left;
 }
+.side_menu a img{
+    width: 100px;
+}
 .top_menu{
-    background-color: yellowgreen;
-    height: 30px;
+    background-color: rgb(170, 170, 170);
+    height: 20px;
 }
 .head{
-    background-color: rgb(135, 19, 202);
-    height: 70px;
+    background-color: rgb(149, 169, 255);
+    height: 80px;
+    font-size: 50px;
+    color:white;
 }
 .context{
-    background-color: rgb(212, 71, 114);
+    background-color: rgb(206, 206, 206);
     height: 85vh;
+    border :1px solid black;
 }
 .footer{
     background-color: rgb(80, 171, 224);
-    height: 50px;
+    height: 47px;
 }
 /* 사이드 메뉴 */
 .side_menu .admin_icon{
-    background-color: skyblue;
+    background-color: rgb(54, 54, 54);
     height: 100px;
+    text-align: center;
+    border: 1px solid black;
 }
 .side_menu .admin_menu{
-    background-color: aquamarine;
+    background-color: rgb(54, 54, 54);
     height: 60px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    border: 0.1px solid white;
+}
+/* 사이드 메뉴 */
+.top_menu .admin_login{
+    float: right;
 }

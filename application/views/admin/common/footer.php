@@ -1,3 +1,5 @@
-        <div class="footer">푸터입니다.</div>
+        <div class="footer">
+            <div class="">ver. 1.0.0</div>
+        </div>
     </body>
 </HTML> 
