@@ -15,19 +15,11 @@
   <body>
   <!-- main -->
   <form action= "/admin/main/index" mathod= "post" accept-charset= "utf-8"  name= "test">
-  <div class="search_box">
-    <div class="container_1">
-      <span class="main_search"><i class="main_search"></i></span>
-      <input class="search" type="search" placeholder="Search...">
-    </div> 
-</div>
-    </form>
-  
-  
-  <!-- <input class="search_btn" type="button"> -->
-  <!-- <div class="top_menu"></div> -->
-  <!-- <input type= "text" name="search_bar"> -->
-  
+    <div class="search_box">
+      <input type="text" placeholder="Search..." name="search">
+      <button type="submit"></button> 
+    </div>
+  </form>
   
   
 
