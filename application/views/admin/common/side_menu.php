@@ -4,7 +4,7 @@
                   <img src="\resourceadmin\image\mc.jpg">
             </a>
       </div>
-      <a href="javascript:void(0)" ><div class="admin_menu">방문자 통계</div></a>
+      <a href="javascript:void(0)" ><div class="admin_menu admin_choice">방문자 통계</div></a>
       <a href="javascript:void(0)" ><div class="admin_menu">여행기 등록</div></a>
       <a href="javascript:void(0)" ><div class="admin_menu">접촉 요청</div></a>
 </div>
