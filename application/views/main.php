@@ -13,15 +13,20 @@
 
 
   <body>
-  <!-- main -->
-  <form action= "/admin/main/index" mathod= "post" accept-charset= "utf-8"  name= "test">
-    <div class="search_box">
-      <input type="text" placeholder="Search..." name="search">
-      <button type="submit"></button> 
-    </div>
-  </form>
+  <!-- main_Top-->
+    <form action= "/admin/main/index" mathod= "post" accept-charset= "utf-8"  name= "test">
+      <div class="search_box">
+        <input type="text" placeholder="Search..." name="search">
+        <input type="button" value="검색" onclick="alert(ok)"> 
+      </div>
+    </form>
+
+  <!--side menu-->
+    <a class="logo" href="#" taget="_self"><img src="resource/image/main/motorcycle.jpg" alt="BIKE"></a>
   
-  
+  <!--main view-->
+    <div></div>
+
 
   </body>
   </HTML> 

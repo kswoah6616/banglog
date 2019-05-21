@@ -3,26 +3,6 @@ body{
     margin: 0px; 
     padding: 0px;  
 }
-/* 메인 Top_right */
-.search_box{
-    float: right;
-}
-.search_box[type=text]{
-    padding: 6px;
-    margin-top: 8px;
-    font-size: 17px;
-    border: none;
-}
-.search_box button:hover{
-    background:#ccc;
-}
-.search_box button{
-    float: right;
-    padding: 6px 10px;
-    margin-top: 8px;
-    margin-right: 16px;
-    font-size: 17px;
-    border: none;
-    cursor: pointer;
-}
+/* main-Top */
 
+/* main-side menu */
