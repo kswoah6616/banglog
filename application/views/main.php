@@ -22,12 +22,12 @@
       </div>
     </form> -->
   </div>
+  
 
   <!--right menu-->
 
   <!--left menu-->
-    <a class="logo" href="#" taget="_self"><img src="resource/image/main/motorcycle.jpg" alt="BIKE"></a>
-    
+  <a class="logo" href="#" taget="_self"><img src="resource/image/main/motorcycle.jpg" alt="BIKE"></a>
 
 
   <!--center view-->

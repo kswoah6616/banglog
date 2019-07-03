@@ -1,13 +1,19 @@
 /* 설정 초기화 */
 body{  
+    background-color: rgb(5, 40, 63);
     margin: 0px; 
     padding: 0px;  
 }
+.logo{
+   display: block;
+   margin-left: 20px;
+   margin-right: auto;
+}
 .top_menu{
-    border: solid outset;
-    margin: 40px;
-    /* position: relative; */
-    
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
 }
 /* main-Top */
 
