@@ -15,27 +15,23 @@
   <body>
   <!-- main_Top-->
   <div class = "top_menu">
-    <!-- <form action= "/admin/main/index" mathod= "post" accept-charset= "utf-8"  name= "test">
+    <form action= "/admin/main/index" mathod= "post" accept-charset= "utf-8"  name= "test">
       <div class="search_box">
         <input type="text" placeholder="Search..." name="search">
         <input type="button" value="검색" onclick="alert(ok)"> 
       </div>
-    </form> -->
+    </form>
   </div>
   
-
   <!--right menu-->
 
   <!--left menu-->
   <a class="logo" href="#" taget="_self"><img src="resource/image/main/motorcycle.jpg" alt="BIKE"></a>
 
-
   <!--center view-->
 
   <!--bottom-->
   
-
-
   </body>
   </HTML> 
   
