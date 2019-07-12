@@ -1,19 +1,43 @@
 /* 설정 초기화 */
 body{  
-    background-color: rgb(5, 40, 63);
-    margin: 0px; 
-    padding: 0px;  
+    background-color: white;
+    /* background-image: image("/resource/image/main/B_main.jpg"); */
+    background-repeat : no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-position: 100%;
+    background-attachment: fixed;
+    /* margin: 0px; 
+    padding: 0px;   */
 }
-.logo{
+
+/* #div{
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+}
+#div::-webkit-scrollbar{
+    display: none;
+} */
+/* .logo{
    display: block;
    margin-left: 20px;
    margin-right: auto;
-}
-.top_menu{
+} */
+/* .top_menu{
     text-align: right;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-right: 20px;
-}
+    margin-bottom: 10px;
+    position: relative;
+} */
+/* .main_img{
+    size: 100%;
+} */
+/* .img.top_menu{
+    position: absolute;
+    top
+} */
 /* main-Top */
 
 /* main-side menu */
