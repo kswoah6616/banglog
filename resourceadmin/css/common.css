@@ -9,3 +9,41 @@ a:visited {text-decoration: none; color: #333333;}
 a:active {text-decoration: none; color: #333333;}
 a:hover {text-decoration: none;}
 
+.fullTag{
+    
+}
+
+.top_menu{
+    width: 100%;
+    height: 30px;
+    background-color: red;
+    float: left;
+}
+
+.side_menu{
+    width: 12%;
+    height: 93vh;
+    background-color: rgba(255, 8, 8, 0.1);
+    float: left;
+}
+
+.header{
+    width: 88%;
+    height: 10vh;
+    background-color: rgb(39, 233, 168);
+    float: left;
+}
+
+.content{
+    width: 88%;
+    height: 83vh;
+    background-color: rebeccapurple;
+    float: left;
+}
+
+.footer{
+    width: 100%;
+    height: 7vh;
+    background-color: rgb(231, 24, 169);
+    float: left;
+}
