@@ -11,7 +11,6 @@
     
   </head>
 
-
   <body>
   <!-- main_Top-->
 
@@ -26,14 +25,15 @@
   </div> -->
   
   <!--right menu-->
-
   <!--left menu-->
-  <a class="logo" href="#" taget="_self"><img src="resource/image/main/motorcycle.jpg" alt="BIKE"></a>
-
   <!--center view-->
-  
+  <div class="main_image">
+    <img src="/resource/image/main/B_main.jpg">
+  </div>
+
   <!--bottom-->
-  
+
   </body>
+
   </HTML> 
   
