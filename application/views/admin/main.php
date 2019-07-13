@@ -1,4 +1,19 @@
-    <!-- 본문 -->
-    <div class="head">방문자 통계</div>
-    <div class="context">본문입니다.</div>
-    <!-- 본문 END-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Bike</title>
+    <link rel="stylesheet" href="/resource/css/common.css?ver=<?= RES_VER?>">
+    <link rel="shortcut icon" type="image/x-icon" href="resource/image/main/bike.ico">
+    <!-- js -->
+    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="/resourceadmin/js/main/main.js"></script>
+    
+  </head>
+
+  <body>
+왕꿀뗴지
+  
+  </body>
+  </HTML> 
+  
