@@ -28,7 +28,7 @@
   <!--left menu-->
   <!--center view-->
   <div class="main_image">
-    <img src="/resource/image/main/B_main.jpg">
+    <img class="b_main"  src="/resource/image/main/B_main.jpg">
   </div>
 
   <!--bottom-->
